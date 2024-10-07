@@ -55,6 +55,7 @@ nav button {
     text-align: center;
     font-size: 2rem;
     padding: 20px;
+    flex-direction: column;
 }
 .hero button {
     background: #007BFF;
@@ -63,7 +64,7 @@ nav button {
     padding: 10px 20px;
     cursor: pointer;
     border-radius: 5px;
-    flex-direction: column;
+
     display: flex;
     justify-content: center;
 }
